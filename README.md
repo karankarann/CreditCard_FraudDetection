@@ -1,4 +1,6 @@
 # CreditCard_FraudDetection
+![Credit_Card_Fraud_Detection_Logo](https://github.com/user-attachments/assets/2c14f6b5-27a4-420c-aa99-3ca7fc8a007b)
+
 
 Welcome to the Credit Card Fraud Detection project, where we tackle the ever-evolving challenge of identifying fraudulent transactions with precision and speed. This repository is a comprehensive guide for those interested in understanding the nitty-gritty of fraud detection, from data preprocessing to model deployment. Here’s a breakdown of what this project offers:
 
